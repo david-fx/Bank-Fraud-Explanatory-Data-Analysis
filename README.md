@@ -1,6 +1,6 @@
-# Fraud-Explanatory-Data-Analysis
+# Bank-Fraud-Explanatory-Data-Analysis
 
-Fraud Explanatory Data Analysis
+Bank Fraud Explanatory Data Analysis
 
 Source : '/kaggle/input/bank-transaction-dataset-for-fraud-detection/bank_transactions_data_2.csv'
 
